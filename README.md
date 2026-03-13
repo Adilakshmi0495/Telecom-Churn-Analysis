@@ -310,7 +310,7 @@ Image File Location:
 
 
 
-!\[Power BI Dashboard](06\_Images/01\_PowerBI\_Dashboard.png)
+![Power BI Dashboard](06_Images/01_PowerBI_Dashboard.png)
 
 
 
@@ -400,7 +400,7 @@ Confusion Matrix Image Location:
 
 
 
-!\[Random Forest Confusion Matrix](06\_Images/02\_Random\_Forest\_Confusion\_matrix.png)
+![Random Forest Confusion Matrix](06_Images/02_Random_Forest_Confusion_matrix.png)
 
 
 
