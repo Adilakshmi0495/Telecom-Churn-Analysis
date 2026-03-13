@@ -1,8 +1,8 @@
-\# Telecom Customer Churn Analysis
+# Telecom Churn Analysis
 
 
 
-\## 1. Project Overview
+## 1. Project Overview
 
 
 
@@ -14,25 +14,25 @@ This project analyzes telecom customer data to identify the key factors influenc
 
 
 
-This project demonstrates an \*\*end-to-end data analytics workflow\*\*, including:
+This project demonstrates an **end-to-end data analytics workflow**, including:
 
 
 
-\* Data Analysis using Excel
+* Data Analysis using Excel
 
-\* Business Analysis using SQL
+* Business Analysis using SQL
 
-\* Data Visualization using Power BI
+* Data Visualization using Power BI
 
-\* Machine Learning using Python
-
-
-
-\---
+* Machine Learning using Python
 
 
 
-\# 2. Business Problem
+---
+
+
+
+# 2. Business Problem
 
 
 
@@ -44,13 +44,13 @@ The objectives of this project are:
 
 
 
-\* Identify patterns that lead to customer churn
+* Identify patterns that lead to customer churn
 
-\* Analyze customer behavior and usage patterns
+* Analyze customer behavior and usage patterns
 
-\* Visualize churn insights using dashboards
+* Visualize churn insights using dashboards
 
-\* Build a machine learning model to predict churn risk
+* Build a machine learning model to predict churn risk
 
 
 
@@ -58,15 +58,15 @@ These insights help businesses implement strategies to retain customers.
 
 
 
-\---
+---
 
 
 
-\# 3. Dataset Information
+# 3. Dataset Information
 
 
 
-Dataset used: \*\*Telecom Customer Churn Dataset\*\*
+Dataset used: **Telecom Customer Churn Dataset**
 
 
 
@@ -78,23 +78,23 @@ Key features include:
 
 
 
-\* State
+* State
 
-\* Account Length
+* Account Length
 
-\* International Plan
+* International Plan
 
-\* Voice Mail Plan
+* Voice Mail Plan
 
-\* Customer Service Calls
+* Customer Service Calls
 
-\* Total Day Minutes
+* Total Day Minutes
 
-\* Total Evening Minutes
+* Total Evening Minutes
 
-\* Total Night Minutes
+* Total Night Minutes
 
-\* Churn (Target Variable)
+* Churn (Target Variable)
 
 
 
@@ -102,7 +102,7 @@ Dataset files used in this project:
 
 
 
-01\_Data
+01_Data
 
 • churn-bigml-20.csv
 
@@ -110,11 +110,11 @@ Dataset files used in this project:
 
 
 
-\---
+---
 
 
 
-\# 4. Tools \& Technologies Used
+# 4. Tools & Technologies Used
 
 
 
@@ -130,11 +130,11 @@ Scikit-Learn → Model Training
 
 
 
-\---
+---
 
 
 
-\# 5. Data Cleaning
+# 5. Data Cleaning
 
 
 
@@ -146,13 +146,13 @@ Steps performed:
 
 
 
-\* Checked for missing values
+* Checked for missing values
 
-\* Verified categorical variables
+* Verified categorical variables
 
-\* Reviewed column data types
+* Reviewed column data types
 
-\* Ensured data consistency
+* Ensured data consistency
 
 
 
@@ -160,11 +160,11 @@ The cleaned dataset was then used for further analysis.
 
 
 
-\---
+---
 
 
 
-\# 6. Exploratory Data Analysis (Excel)
+# 6. Exploratory Data Analysis (Excel)
 
 
 
@@ -176,13 +176,13 @@ Key analysis performed:
 
 
 
-\* Churn distribution
+* Churn distribution
 
-\* Customer usage behavior
+* Customer usage behavior
 
-\* Service call patterns
+* Service call patterns
 
-\* Plan subscription analysis
+* Plan subscription analysis
 
 
 
@@ -194,17 +194,17 @@ Excel File Location:
 
 
 
-02\_Excel\_EDA
+02_Excel_EDA
 
-Telecom\_Churn\_EDA.xlsx
-
-
-
-\---
+Telecom_Churn_EDA.xlsx
 
 
 
-\# 7. SQL Business Analysis
+---
+
+
+
+# 7. SQL Business Analysis
 
 
 
@@ -216,21 +216,21 @@ Key business questions answered:
 
 
 
-\* Total number of telecom customers
+* Total number of telecom customers
 
-\* Churn distribution
+* Churn distribution
 
-\* Overall churn rate
+* Overall churn rate
 
-\* Customer service calls vs churn
+* Customer service calls vs churn
 
-\* International plan vs churn
+* International plan vs churn
 
-\* Voice mail plan vs churn
+* Voice mail plan vs churn
 
-\* Usage minutes comparison
+* Usage minutes comparison
 
-\* Account length vs churn
+* Account length vs churn
 
 
 
@@ -238,17 +238,17 @@ SQL File Location:
 
 
 
-03\_SQL\_Analysis
+03_SQL_Analysis
 
-Telecom\_Churn\_Analysis.sql
-
-
-
-\---
+Telecom_Churn_Analysis.sql
 
 
 
-\# 8. Power BI Dashboard
+---
+
+
+
+# 8. Power BI Dashboard
 
 
 
@@ -260,19 +260,19 @@ Dashboard features include:
 
 
 
-\* Total Customers KPI
+* Total Customers KPI
 
-\* Churn Customers KPI
+* Churn Customers KPI
 
-\* Churn Rate KPI
+* Churn Rate KPI
 
-\* Customer Service Calls vs Churn
+* Customer Service Calls vs Churn
 
-\* International Plan vs Churn
+* International Plan vs Churn
 
-\* Voice Mail Plan vs Churn
+* Voice Mail Plan vs Churn
 
-\* Usage Minutes Analysis
+* Usage Minutes Analysis
 
 
 
@@ -284,17 +284,17 @@ Power BI File Location:
 
 
 
-04\_PowerBI\_Dashboard
+04_PowerBI_Dashboard
 
-Telecom\_churn\_Analysis\_DashBoard.pbix
-
-
-
-\---
+Telecom_churn_Analysis_DashBoard.pbix
 
 
 
-\# 9. Dashboard Preview
+---
+
+
+
+# 9. Dashboard Preview
 
 
 
@@ -306,7 +306,7 @@ Image File Location:
 
 
 
-06\_Images/01\_PowerBI\_Dashboard.png
+06_Images/01_PowerBI_Dashboard.png
 
 
 
@@ -314,11 +314,11 @@ Image File Location:
 
 
 
-\---
+---
 
 
 
-\# 10. Machine Learning Model
+# 10. Machine Learning Model
 
 
 
@@ -330,15 +330,15 @@ Steps performed:
 
 
 
-\* Data preprocessing
+* Data preprocessing
 
-\* Feature selection
+* Feature selection
 
-\* Train-test split
+* Train-test split
 
-\* Model training
+* Model training
 
-\* Model evaluation
+* Model evaluation
 
 
 
@@ -346,9 +346,9 @@ Two models were used:
 
 
 
-1\. Logistic Regression (Baseline Model)
+1. Logistic Regression (Baseline Model)
 
-2\. Random Forest (Final Model)
+2. Random Forest (Final Model)
 
 
 
@@ -360,17 +360,17 @@ Machine Learning File Location:
 
 
 
-05\_Machine\_Learning
+05_Machine_Learning
 
-Telecom\_Churn\_ML\_Analysis.ipynb
-
-
-
-\---
+Telecom_Churn_ML_Analysis.ipynb
 
 
 
-\# 11. Model Performance
+---
+
+
+
+# 11. Model Performance
 
 
 
@@ -382,13 +382,13 @@ The confusion matrix helps evaluate the model by showing:
 
 
 
-\* True Positives
+* True Positives
 
-\* True Negatives
+* True Negatives
 
-\* False Positives
+* False Positives
 
-\* False Negatives
+* False Negatives
 
 
 
@@ -396,7 +396,7 @@ Confusion Matrix Image Location:
 
 
 
-06\_Images/02\_Random\_Forest\_Confusion\_matrix.png
+06_Images02_Random_Forest_Confusion_matrix.png
 
 
 
@@ -408,11 +408,11 @@ Model accuracy is also shown in the output of the confusion matrix.
 
 
 
-\---
+---
 
 
 
-\# 12. Key Insights
+# 12. Key Insights
 
 
 
@@ -420,13 +420,13 @@ The analysis revealed several important insights:
 
 
 
-\* Customers with international plans show higher churn rates
+* Customers with international plans show higher churn rates
 
-\* Customers making frequent customer service calls are more likely to churn
+* Customers making frequent customer service calls are more likely to churn
 
-\* Usage patterns influence churn probability
+* Usage patterns influence churn probability
 
-\* Customers without voice mail plans tend to churn more frequently
+* Customers without voice mail plans tend to churn more frequently
 
 
 
@@ -434,11 +434,11 @@ These insights help telecom companies understand customer behavior better.
 
 
 
-\---
+---
 
 
 
-\# 13. Business Recommendations
+# 13. Business Recommendations
 
 
 
@@ -446,13 +446,13 @@ Based on the analysis, the following strategies can help reduce customer churn:
 
 
 
-\* Improve customer support services
+* Improve customer support services
 
-\* Monitor high-risk customers with international plans
+* Monitor high-risk customers with international plans
 
-\* Provide loyalty benefits to long-term customers
+* Provide loyalty benefits to long-term customers
 
-\* Offer personalized retention programs
+* Offer personalized retention programs
 
 
 
@@ -460,11 +460,11 @@ Implementing these strategies can help telecom companies improve customer retent
 
 
 
-\---
+---
 
 
 
-\# 14. Future Improvements
+# 14. Future Improvements
 
 
 
@@ -472,15 +472,15 @@ This project can be extended further with the following improvements:
 
 
 
-\* Deploy the churn prediction model as a web application
+* Deploy the churn prediction model as a web application
 
-\* Implement real-time churn prediction
+* Implement real-time churn prediction
 
-\* Apply advanced machine learning models such as XGBoost
+* Apply advanced machine learning models such as XGBoost
 
-\* Perform customer segmentation using clustering techniques
+* Perform customer segmentation using clustering techniques
 
-\* Build automated data pipelines for continuous data updates
+* Build automated data pipelines for continuous data updates
 
 
 
@@ -488,11 +488,11 @@ These improvements would make the system more scalable and production-ready.
 
 
 
-\---
+---
 
 
 
-\# 15. Project Structure
+# 15. Project Structure
 
 
 
@@ -504,7 +504,7 @@ README.md
 
 
 
-01\_Data
+01_Data
 
 • churn-bigml-20.csv
 
@@ -512,65 +512,65 @@ README.md
 
 
 
-02\_Excel\_EDA
+02_Excel_EDA
 
-• Telecom\_Churn\_EDA.xlsx
-
-
-
-03\_SQL\_Analysis
-
-• Telecom\_Churn\_Analysis.sql
+• Telecom_Churn_EDA.xlsx
 
 
 
-04\_PowerBI\_Dashboard
+03_SQL_Analysis
 
-• Telecom\_churn\_Analysis\_DashBoard.pbix
-
-
-
-05\_Machine\_Learning
-
-• Telecom\_Churn\_ML\_Analysis.ipynb
+• Telecom_Churn_Analysis.sql
 
 
 
-06\_Images
+04_PowerBI_Dashboard
 
-• 01\_PowerBI\_Dashboard.png
-
-• 02\_Random\_Forest\_Confusion\_matrix.png
+• Telecom_churn_Analysis_DashBoard.pbix
 
 
 
-\---
+05_Machine_Learning
+
+• Telecom_Churn_ML_Analysis.ipynb
 
 
 
-\# 16. Skills Demonstrated
+06_Images
+
+• 01_PowerBI_Dashboard.png
+
+• 02_Random_Forest_confusion_matrix.png
 
 
 
-\* Data Cleaning
-
-\* Exploratory Data Analysis
-
-\* SQL Data Analysis
-
-\* Dashboard Development
-
-\* Machine Learning Modeling
-
-\* Business Insight Generation
+---
 
 
 
-\---
+# 16. Skills Demonstrated
 
 
 
-\# Author
+* Data Cleaning
+
+* Exploratory Data Analysis
+
+* SQL Data Analysis
+
+* Dashboard Development
+
+* Machine Learning Modeling
+
+* Business Insight Generation
+
+
+
+---
+
+
+
+# Author
 
 
 
