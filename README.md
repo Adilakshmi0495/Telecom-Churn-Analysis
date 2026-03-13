@@ -1,22 +1,19 @@
 # Telecom Churn Analysis
 
 ## Table of Contents
-- Project Overview
-- Business Problem
-- Dataset Information
-- Tools & Technologies
-- Data cleaning
-- Exploratory Data Analysis
-- SQL Business Analysis
-- Power BI Dashboard
-- Dashboard Preview
-- Machine Learning Models
-- Model Performance
-- Key Insights
-- Business Recommendations
-- Future Importance
-- Project Structure
-- skills demonstrated
+
+- [Project Overview](#project-overview)
+- [Dataset Information](#dataset-information)
+- [Tools & Technologies](#tools--technologies)
+- [Exploratory Data Analysis (Excel)](#exploratory-data-analysis-excel)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Machine Learning Models](#machine-learning-models)
+- [Model Performance](#model-performance)
+- [Key Insights](#key-insights)
+- [Business Recommendations](#business-recommendations)
+- [Future Improvements](#future-improvements)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Project Structure](#project-structure)
 
 
 ##  Project Overview
@@ -132,7 +129,7 @@ Dataset files used in this project:
 
 
 
-#  Tools & Technologies Used
+#  Tools & Technologies
 
 
 
@@ -336,7 +333,7 @@ Image File Location:
 
 
 
-#  Machine Learning Model
+#  Machine Learning Models
 
 
 
