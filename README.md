@@ -138,15 +138,13 @@ Dataset files used in this project:
 
 
 
-Excel → Exploratory Data Analysis
+## Tools & Technologies
 
-SQL → Business Data Analysis
-
-Power BI → Data Visualization \& Dashboard
-
-Python → Machine Learning Model
-
-Scikit-Learn → Model Training
+- Excel – Exploratory Data Analysis
+- SQL – Business analysis queries
+- Power BI – Interactive dashboard visualization
+- Python – Data preprocessing and machine learning
+- Scikit-Learn – Model Training
 
 
 
@@ -367,8 +365,10 @@ Two models were used:
 
 
 1. Logistic Regression (Baseline Model)
+   
+2. Decision Tree
 
-2. Random Forest (Final Model)
+3. Random Forest (Final Model)
 
 
 
@@ -590,17 +590,13 @@ README.md
 
 
 
-# Author
 
 
+## Author
 
-Adilakshmi Vemala
+Adilakshmi Vemala 
 
-Aspiring Data Analyst
+Data Analytics Enthusiast  
 
-
-
-Tools Used:
-
-Excel | SQL | Power BI | Python | Machine Learning
+GitHub: https://github.com/Adilakshmi0495
 
