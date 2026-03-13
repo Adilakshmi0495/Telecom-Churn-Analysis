@@ -1,8 +1,25 @@
 # Telecom Churn Analysis
 
+## Table of Contents
+- Project Overview
+- Business Problem
+- Dataset Information
+- Tools & Technologies
+- Data cleaning
+- Exploratory Data Analysis
+- SQL Business Analysis
+- Power BI Dashboard
+- Dashboard Preview
+- Machine Learning Models
+- Model Performance
+- Key Insights
+- Business Recommendations
+- Future Importance
+- Project Structure
+- skills demonstrated
 
 
-## 1. Project Overview
+##  Project Overview
 
 
 
@@ -32,7 +49,7 @@ This project demonstrates an **end-to-end data analytics workflow**, including:
 
 
 
-# 2. Business Problem
+#  Business Problem
 
 
 
@@ -62,7 +79,7 @@ These insights help businesses implement strategies to retain customers.
 
 
 
-# 3. Dataset Information
+#  Dataset Information
 
 
 
@@ -114,7 +131,7 @@ Dataset files used in this project:
 
 
 
-# 4. Tools & Technologies Used
+#  Tools & Technologies Used
 
 
 
@@ -134,7 +151,7 @@ Scikit-Learn → Model Training
 
 
 
-# 5. Data Cleaning
+#  Data Cleaning
 
 
 
@@ -164,7 +181,7 @@ The cleaned dataset was then used for further analysis.
 
 
 
-# 6. Exploratory Data Analysis (Excel)
+#  Exploratory Data Analysis (Excel)
 
 
 
@@ -204,7 +221,7 @@ Telecom_Churn_EDA.xlsx
 
 
 
-# 7. SQL Business Analysis
+#  SQL Business Analysis
 
 
 
@@ -248,7 +265,7 @@ Telecom_Churn_Analysis.sql
 
 
 
-# 8. Power BI Dashboard
+#  Power BI Dashboard
 
 
 
@@ -294,7 +311,7 @@ Telecom_churn_Analysis_DashBoard.pbix
 
 
 
-# 9. Dashboard Preview
+#  Dashboard Preview
 
 
 
@@ -318,7 +335,7 @@ Image File Location:
 
 
 
-# 10. Machine Learning Model
+#  Machine Learning Model
 
 
 
@@ -370,7 +387,7 @@ Telecom_Churn_ML_Analysis.ipynb
 
 
 
-# 11. Model Performance
+#  Model Performance
 
 
 
@@ -412,7 +429,7 @@ Model accuracy is also shown in the output of the confusion matrix.
 
 
 
-# 12. Key Insights
+## Key Insights
 
 
 
@@ -438,7 +455,7 @@ These insights help telecom companies understand customer behavior better.
 
 
 
-# 13. Business Recommendations
+#  Business Recommendations
 
 
 
@@ -464,7 +481,7 @@ Implementing these strategies can help telecom companies improve customer retent
 
 
 
-# 14. Future Improvements
+#  Future Improvements
 
 
 
@@ -492,7 +509,7 @@ These improvements would make the system more scalable and production-ready.
 
 
 
-# 15. Project Structure
+#  Project Structure
 
 
 
@@ -548,7 +565,7 @@ README.md
 
 
 
-# 16. Skills Demonstrated
+#  Skills Demonstrated
 
 
 
