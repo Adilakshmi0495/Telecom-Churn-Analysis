@@ -3,17 +3,21 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
 - [Dataset Information](#dataset-information)
 - [Tools & Technologies](#tools--technologies)
+- [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis (Excel)](#exploratory-data-analysis-excel)
+- [SQL Business Analysis](#sql-business-analysis)
 - [Power BI Dashboard](#power-bi-dashboard)
+- [Dashboard Preview](#dashboard-preview)
 - [Machine Learning Models](#machine-learning-models)
 - [Model Performance](#model-performance)
 - [Key Insights](#key-insights)
 - [Business Recommendations](#business-recommendations)
 - [Future Improvements](#future-improvements)
-- [Skills Demonstrated](#skills-demonstrated)
 - [Project Structure](#project-structure)
+- [Skills Demonstrated](#skills-demonstrated)
 
 
 ##  Project Overview
