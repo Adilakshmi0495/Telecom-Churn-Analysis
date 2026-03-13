@@ -84,6 +84,7 @@ These insights help businesses implement strategies to retain customers.
 
 
 Dataset used: **Telecom Customer Churn Dataset**
+Dataset Source: www.kaggle.com/datasets/mnassrib/telecom-churn-datasets
 
 
 
