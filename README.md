@@ -400,6 +400,8 @@ Confusion Matrix Image Location:
 
 
 
+
+## Random Forest Confusion Matrix
 ![Random Forest Confusion Matrix](06_Images/02_Random_Forest_Confusion_matrix.png)
 
 
