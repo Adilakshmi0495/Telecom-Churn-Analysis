@@ -330,7 +330,7 @@ Image File Location:
 
 ![Power BI Dashboard](06_Images/01_PowerBI_Dashboard.png)
 
-
+This Power BI dashboard provides interactive insights into customer churn by analyzing churn rate, service usage, customer service calls, and subscription plans such as international and voice mail services.
 
 ---
 
