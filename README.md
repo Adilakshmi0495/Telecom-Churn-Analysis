@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telecom Churn Analysis
 
 ## Table of Contents
@@ -600,3 +601,6 @@ Data Analytics Enthusiast
 
 GitHub: https://github.com/Adilakshmi0495
 
+=======
+# Telecom-Churn-Analysis
+>>>>>>> 2155f1cb6fae887feeb51a316e5d31bd98a8b7dd
